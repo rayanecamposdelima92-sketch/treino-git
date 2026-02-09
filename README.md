@@ -6,4 +6,3 @@ Aqui estou aprendendo:
 - Git
 - GitHub
 - Versionamento
-- 
